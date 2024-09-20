@@ -1,0 +1,16 @@
+.Notifications {
+    border: 2px solid #60962d;
+    padding: 20px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+    width: 95vw;
+    top: 10px;
+}
+
+li[data="default"] {
+    color: rgba(221, 0, 255, 0.884);
+  }
+  
+  li[data="urgent"] {
+    color: rgba(0, 153, 255, 0.838);
+  }
